@@ -1,6 +1,6 @@
 # ClosedSet_Lattice: Cải tiến thuật toán khai thác CHUI+
 
-Năm 2023, Ye In Chang và cộng sự [1](https://www.ijfcc.org/show-106-1003-1.html) đã công bố thuật toán **ClosedSet_Lattice** để khai thác mẫu **CHUI+** trong cơ sở dữ liệu tăng trưởng.
+Năm 2023, Ye In Chang và cộng sự [[1]](https://www.ijfcc.org/show-106-1003-1.html) đã công bố thuật toán **ClosedSet_Lattice** để khai thác mẫu **CHUI+** trong cơ sở dữ liệu tăng trưởng.
 
 ![ClosedSet_Lattice](img/ClosedSet_Lattice.png)
 
