@@ -1,6 +1,6 @@
 # ClosedSet_Lattice: Cải tiến thuật toán khai thác CHUI+
 
-Năm 2023, Ye In Chang và cộng sự [1] đã công bố thuật toán **ClosedSet_Lattice** để khai thác mẫu **CHUI+** trong cơ sở dữ liệu tăng trưởng.
+Năm 2023, Ye In Chang và cộng sự [1](https://www.ijfcc.org/show-106-1003-1.html) đã công bố thuật toán **ClosedSet_Lattice** để khai thác mẫu **CHUI+** trong cơ sở dữ liệu tăng trưởng.
 
 ![ClosedSet_Lattice](img/ClosedSet_Lattice.png)
 
@@ -28,7 +28,5 @@ So sánh hiệu suất của thuật toán cải tiến với bài báo gốc tr
 
 ## Paper gốc
 
-[1] Ye In Chang, Po Chun Chuang, Chun Yu Wang, and Yu Hao Liao,  
-    "An Efficient Approach for Mining Closed High Utility Patterns in the Incremental Database,"  
-    *International Journal of Future Computer and Communication*, vol. 12, no. 4, pp. 84-92, 2023.  
-    [Link bài viết](https://www.ijfcc.org/show-106-1003-1.html)
+[1] Ye In Chang, Po Chun Chuang, Chun Yu Wang, and Yu Hao Liao, "An Efficient Approach for Mining Closed High Utility Patterns in the Incremental Database," *International Journal of Future Computer and Communication*, vol. 12, no. 4, pp. 84-92, 2023. 
+    
