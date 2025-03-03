@@ -3,7 +3,7 @@
 Năm 2023, Ye In Chang và cộng sự [[1]](https://www.ijfcc.org/show-106-1003-1.html) đã công bố thuật toán **ClosedSet_Lattice** để khai thác mẫu **CHUI+** trong cơ sở dữ liệu tăng trưởng.
 
 <p align="center">
-  <img src="img/ClosedSet_Lattice.png" alt="ClosedSet_Lattice" height="50%">
+  <img src="img/ClosedSet_Lattice.png" alt="ClosedSet_Lattice" height="25%">
 </p>
 
 Việc xây dựng cây dựa trên việc xác định mối quan hệ giữa các nút bằng các phép toán (operations) và được chia thành **5 trường hợp chính**:
